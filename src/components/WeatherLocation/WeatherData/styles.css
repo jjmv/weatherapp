@@ -1,5 +1,6 @@
 .weatherDataCont{
   background: blue;
+  width: 400px;
 }
 
 .weatherExtraInfoCont{
@@ -7,5 +8,6 @@
 }
 
 .weatherTemperatureCont{
-  background: green;
+  background: yellow;
+  width: 60%;
 }
